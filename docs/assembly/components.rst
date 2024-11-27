@@ -165,7 +165,9 @@
      - Power
      - Toggle Switch
      - `imrad.com.ua <https://imrad.com.ua/ua/msk-05g2-0-6>`__
-     - `Посилання <https://www.aliexpress.com/item/4000030382277.html>`__
+     - - `Посилання <https://www.aliexpress.com/item/4000030382277.html>`__
+       - `Посилання <https://www.aliexpress.com/item/1005001629292684.html>`__
+       - `Посилання <https://www.aliexpress.com/item/1005001629243817.html>`__
      -
      - 10
      - Кнопка має бути кутова
